@@ -1,7 +1,17 @@
-# Elements of AI: Building AI - Advanced
-[Elements of AI: Building AI - Advanced](https://buildingai.elementsofai.com/) is an online course by Reaktor and University of Helsinki worth 2 ECTS.
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
+
+# Painting AI
+
+Final project for the Building AI course
+
+## Summary
 
 It aims to introduce students to how to build AI in Python, that is: how to implement probability algorithms, machine learning and neural networks in Python.
+
+
+## Background
 
 This repository contains my personal answers to the exercises in the course.
 ## [Chapter 1 - Getting started with AI](chapter-1/)
